@@ -1,0 +1,14 @@
+{
+  "name": "first_node_project",
+  "version": "1.0.0",
+  "description": "Додайте короткий опис проєкту.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Вкажіть своє ім’я.",
+  "license": "ISC",
+  "type": "commonjs"
+}
